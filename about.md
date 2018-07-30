@@ -1,5 +1,5 @@
 # myPerson.py
-'''
+'''python
 class me:
     def define_self():
         name = 'John B'
