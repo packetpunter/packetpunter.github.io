@@ -3,7 +3,7 @@
 class me:
     def define_self():
         name = 'John B'
-        class = 'network engineer'
+        job = 'network engineer'
         interests = 'network security, design, automation, python3, android'
         notes = 'certified PCNSE, CCNA'
         all_data = name, class, interests, notes
