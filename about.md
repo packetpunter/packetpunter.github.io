@@ -1,5 +1,6 @@
 # myPerson.py
-'class me:
+'''
+class me:
     def define_self():
         name = 'John B'
         class = 'network engineer'
@@ -14,4 +15,4 @@
 
     if '__name__' == '__main__':
         main()
-'
+'''
